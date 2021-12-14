@@ -1,0 +1,73 @@
+div.jumbotron{
+	background-image:url(img/tag.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+nav{
+	background-color: blue;
+}
+a.navbar-brand{
+	color: lightblue;
+	font-weight: bolder;
+	text-shadow: 0 0 2px white;
+}
+a.nav-link{
+	color: lightblue;
+	font-weight: bold;
+	text-shadow: 0 0 2px white;
+}
+div#left{
+	background-color: #116466;
+}
+h1{
+	font-family: sans-serif;
+	font-weight: bolder;
+	text-shadow: 0 0 8px white;
+}
+img{
+	height: 350px;
+	width: 350px;
+}
+h2{
+	font-family: serif;
+	color: #1f2833;
+	margin-left: 20px;
+	text-shadow: 0 0 10px white;
+}
+p{
+	margin-left: 20px;
+	font-size: 18px;
+	color: white;
+	text-shadow: 0 0 8px black	;
+}
+div#right{
+	background-color: #d9b08c;
+}
+#prof{
+	height: 250px;
+	width: 250px;
+}
+div.prof{
+	background-color: #116466;
+}
+h6{
+	color: white;
+	font-family: serif;
+	margin-left: 5px;
+}
+h5{
+	color: white;
+	font-family: serif;
+	text-shadow: 0 0 10px black;
+}
+h4{
+	font-family: serif;
+	font-weight: bold;
+	text-shadow: 0 0 10px white;
+}
+div.sticky{
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	padding: 5px;
+}
